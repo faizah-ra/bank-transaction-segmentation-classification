@@ -73,14 +73,14 @@ Kriteria:
 
 ## 📝 Struktur Folder
 ```
-submission/
-├── Bank_Transactions_Clustering_Dataset.csv
-├── bank_transactions_data_2.csv
-├── [Clustering]_Submission_Akhir_BMLP_Faizah_Rizki_Auliawati.ipynb
-├── [Klasifikasi]_Submission_Akhir_BMLP_Faizah_Rizki_Auliawati.ipynb
-├── requirements.txt
-├── README.md
-└── LICENSE
+bank-transaction-segmentation-classification/
+├── README.md                                      # Dokumentasi proyek
+└── LICENSE                                        # Lisensi (MIT)
+├── bank_transactions_clustering_dataset.csv       # Dataset clustering (original)
+├── bank_transactions_data.csv                     # Dataset hasil transformasi
+├── clustering.ipynb                               # Notebook untuk unsupervised learning
+├── klasifikasi.ipynb                              # Notebook untuk supervised learning
+└── requirements.txt                               # Dependensi proyek
 ```
 
 
