@@ -31,8 +31,8 @@ Sebagai System Analyst dalam proyek ini, saya bertanggung jawab untuk:
 ## 🗂 Dataset
 
 Dataset transaksi bank berisi ribuan baris data pengguna dengan fitur numerikal dan kategorikal.  
-- `Bank_Transactions_Clustering_Dataset.csv`
-- `bank_transactions_data_2.csv`
+- `bank_transactions_clustering_dataset.csv`
+- `bank_transactions_data.csv`
 
 Kriteria:
 - ≥ 2500 baris data
